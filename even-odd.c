@@ -1,3 +1,7 @@
+/*Write a program that allows the user to input a number and if the number is even 
+it displays "The number is even" and if it is odd it displays "The numebr is odd"*/
+
+
 #include<stdio.h>
 
 int main(){
