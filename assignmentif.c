@@ -1,3 +1,6 @@
+/*Write a program that uses the if-else statements to display certain messages according to
+the grade a student has read in.*/
+
 #include<stdio.h>
 
 int main(){
