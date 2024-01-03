@@ -1,3 +1,5 @@
+//how while loops work
+
 #include<stdio.h>
 
 int main(){
