@@ -4,7 +4,7 @@ It then computes and displays the sum and the average.*/
 #include<stdio.h>
 
 int main(){
-    int i,j,valueMe[3][5],sum = 0;
+    int i,j,valueMe[3][5],sum = 0;//declaration of the variables i and j which are control structures
     float average;
 
     for(i=0; i<3; ++i){
